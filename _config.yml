@@ -11,6 +11,10 @@ github_username:  davidtmiller
 facebook_username:  IronSummitMedia
 email_username:  your-email@yourdomain.com
 
+# Disqus shortname (not username!), You can make one from: https://disqus.com/admin/create/
+disqus: snowdj
+
+
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
