@@ -20,7 +20,10 @@ disqus: jonduan
 # google_tracking_id:
 
 # Build settings
-markdown: kramdown
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+
 highlighter: rouge
 permalink: pretty
 paginate: 5
