@@ -2,7 +2,7 @@
 layout: post
 title: 'Man must explore, and this is exploration at its greatest'
 subtitle: Problems look mighty small from 150 miles up
-date: {}
+date: 2014-09-24T00:00:00.000Z
 author: Start Bootstrap
 header-img: img/post-bg-06.jpg
 published: true
